@@ -15,6 +15,7 @@
 		C13006322988A0CC001D7DF7 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = C130062E2988A0CC001D7DF7 /* Menu.swift */; };
 		C13006332988A0CC001D7DF7 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = C130062F2988A0CC001D7DF7 /* Helper.swift */; };
 		C1300634298945F4001D7DF7 /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = C130062D2988A0CC001D7DF7 /* menu.json */; };
+		C130063629894EAB001D7DF7 /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = C130063529894EAB001D7DF7 /* ItemRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		C130062E2988A0CC001D7DF7 /* Menu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
 		C130062F2988A0CC001D7DF7 /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
 		C13006302988A0CC001D7DF7 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
+		C130063529894EAB001D7DF7 /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				C13006172988A052001D7DF7 /* iDineApp.swift */,
 				C13006192988A052001D7DF7 /* ContentView.swift */,
+				C130063529894EAB001D7DF7 /* ItemRow.swift */,
 				C130062D2988A0CC001D7DF7 /* menu.json */,
 				C130061B2988A053001D7DF7 /* Assets.xcassets */,
 				C130062F2988A0CC001D7DF7 /* Helper.swift */,
@@ -153,6 +156,7 @@
 				C13006312988A0CC001D7DF7 /* Order.swift in Sources */,
 				C13006322988A0CC001D7DF7 /* Menu.swift in Sources */,
 				C130061A2988A052001D7DF7 /* ContentView.swift in Sources */,
+				C130063629894EAB001D7DF7 /* ItemRow.swift in Sources */,
 				C13006182988A052001D7DF7 /* iDineApp.swift in Sources */,
 				C13006332988A0CC001D7DF7 /* Helper.swift in Sources */,
 			);
